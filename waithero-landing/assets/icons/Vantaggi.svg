@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Vantaggi">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Vantaggi" clip-path="url(#clip-Vantaggi)">
+    <g id="Raggruppa_10229" data-name="Raggruppa 10229" transform="translate(-670.604 -7352.625)">
+      <g id="Raggruppa_10075" data-name="Raggruppa 10075" transform="translate(675.604 7359.625)">
+        <g id="Raggruppa_9978" data-name="Raggruppa 9978">
+          <path id="Tracciato_4594" data-name="Tracciato 4594" d="M940.087,6875.912a5.276,5.276,0,0,1-2.47-.631l-62.958-34.1a5.546,5.546,0,0,1-2.229-7.378,5.227,5.227,0,0,1,7.17-2.306l53.438,28.953-14.717-88.4a5.592,5.592,0,0,1,1.528-4.854l62.34-62.6L896.035,6691.7a5.358,5.358,0,0,1-4-2.992l-38.529-80.43-38.529,80.43a5.36,5.36,0,0,1-4,2.992l-96.8,14.484a5.341,5.341,0,0,1-6.017-4.628,5.445,5.445,0,0,1,4.491-6.194l94.035-14.079,42.055-87.785a5.29,5.29,0,0,1,4.761-3.046h0a5.285,5.285,0,0,1,4.761,3.046l42.056,87.785,94.035,14.079a5.344,5.344,0,0,1,4.286,3.716,5.587,5.587,0,0,1-1.342,5.61l-68.046,68.338,16.064,96.479a5.545,5.545,0,0,1-2.113,5.353A5.2,5.2,0,0,1,940.087,6875.912Z" transform="translate(-708.11 -6590.453)" fill="#005067" stroke="#005067" stroke-width="6"/>
+        </g>
+        <g id="Raggruppa_9979" data-name="Raggruppa 9979" transform="translate(46.405 151.734)">
+          <path id="Tracciato_4595" data-name="Tracciato 4595" d="M764.581,6863.211a5.485,5.485,0,0,1-5.406-6.414l16.593-96.75-21.7-21.148a5.483,5.483,0,1,1,7.655-7.852l23.762,23.156a5.468,5.468,0,0,1,1.578,4.844l-15.2,88.641,59.843-31.461a5.489,5.489,0,0,1,5.105,9.719l-69.679,36.625A5.4,5.4,0,0,1,764.581,6863.211Z" transform="translate(-752.414 -6729.484)" fill="#005067" stroke="#005067" stroke-width="6"/>
+        </g>
+        <circle id="Ellisse_699" data-name="Ellisse 699" cx="6.931" cy="6.931" r="6.931" transform="translate(141.783 223.804)" fill="#005067" stroke="#005067" stroke-width="6"/>
+        <path id="Tracciato_4596" data-name="Tracciato 4596" d="M888.5,6722.188h-34V6688.2a5.484,5.484,0,1,0-10.969,0v33.992h-34a5.484,5.484,0,1,0,0,10.969h34v34a5.484,5.484,0,1,0,10.969,0v-34h34a5.484,5.484,0,0,0,0-10.969Z" transform="translate(-703.617 -6581.912)" fill="#005067" stroke="#005067" stroke-width="6"/>
+        <circle id="Ellisse_714" data-name="Ellisse 714" cx="6.931" cy="6.931" r="6.931" transform="translate(28.511 135.416)" fill="#005067" stroke="#005067" stroke-width="6"/>
+        <circle id="Ellisse_715" data-name="Ellisse 715" cx="6.931" cy="6.931" r="6.931" transform="translate(13.737 120.685)" fill="#005067" stroke="#005067" stroke-width="6"/>
+      </g>
+    </g>
+  </g>
+</svg>

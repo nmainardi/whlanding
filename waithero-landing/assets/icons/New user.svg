@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-New_user">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="New_user" data-name="New user" clip-path="url(#clip-New_user)">
+    <g id="Raggruppa_10266" data-name="Raggruppa 10266" transform="translate(-3611.272 49.787)">
+      <g id="Raggruppa_10266-2" data-name="Raggruppa 10266" transform="translate(3700.073 30.731)">
+        <path id="Tracciato_4647" data-name="Tracciato 4647" d="M3783.57,169.021a62.322,62.322,0,1,1,62.324-62.323A62.39,62.39,0,0,1,3783.57,169.021Zm0-100.4a38.074,38.074,0,1,0,38.07,38.074A38.122,38.122,0,0,0,3783.57,68.624Z" transform="translate(-3721.25 -44.376)" fill="#bbb"/>
+      </g>
+      <g id="Raggruppa_10267" data-name="Raggruppa 10267" transform="translate(3656.051 161.148)">
+        <path id="Tracciato_4648" data-name="Tracciato 4648" d="M3865.387,271.968a12.1,12.1,0,0,1-9.055-4.058,113.218,113.218,0,0,0-168.445-.75,12.124,12.124,0,0,1-17.961-16.291,137.465,137.465,0,0,1,204.508.91,12.123,12.123,0,0,1-9.047,20.19Z" transform="translate(-3666.783 -205.73)" fill="#bbb"/>
+      </g>
+      <g id="Raggruppa_10268" data-name="Raggruppa 10268" transform="translate(3610.811 -26.787)">
+        <path id="Tracciato_4649" data-name="Tracciato 4649" d="M3886.4,193.6a12.132,12.132,0,0,1-11-17.227,124.85,124.85,0,0,0,11.621-52.927,125.982,125.982,0,1,0-240.355,52.9,12.124,12.124,0,0,1-22,10.2,149.039,149.039,0,0,1-13.855-63.1c0-82.837,67.391-150.23,150.23-150.23s150.23,67.393,150.23,150.23a148.994,148.994,0,0,1-13.871,63.128A12.132,12.132,0,0,1,3886.4,193.6Z" transform="translate(-3610.813 26.787)" fill="#bbb"/>
+      </g>
+    </g>
+  </g>
+</svg>
