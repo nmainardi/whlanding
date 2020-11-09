@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Hamburger_menu">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Hamburger_menu" clip-path="url(#clip-Hamburger_menu)">
+    <g id="Raggruppa_10394" data-name="Raggruppa 10394" transform="translate(0.176 48)">
+      <rect id="Rettangolo_596" data-name="Rettangolo 596" width="144.093" height="44.559" rx="22" transform="translate(19.062 0)" fill="#d9000d"/>
+      <rect id="Rettangolo_597" data-name="Rettangolo 597" width="299.824" height="44.559" rx="22" transform="translate(0 79.326)" fill="#d9000d"/>
+      <rect id="Rettangolo_598" data-name="Rettangolo 598" width="144.093" height="44.559" rx="22" transform="translate(129.348 158.657)" fill="#d9000d"/>
+    </g>
+  </g>
+</svg>

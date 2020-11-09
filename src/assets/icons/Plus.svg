@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Plus">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Plus" clip-path="url(#clip-Plus)">
+    <g id="Raggruppa_9905" data-name="Raggruppa 9905" transform="translate(-293.001 -363)">
+      <path id="Tracciato_2" data-name="Tracciato 2" d="M150-762.608a150.073,150.073,0,0,1,150,150,150.072,150.072,0,0,1-150,150,150.071,150.071,0,0,1-150-150A150.072,150.072,0,0,1,150-762.608Z" transform="translate(293.001 1125.608)" fill="#2ea836" fill-rule="evenodd"/>
+      <path id="Unione_5" data-name="Unione 5" d="M67.7,145.93V88.777H10.546a10.538,10.538,0,1,1,0-21.077H67.7V10.538a10.538,10.538,0,1,1,21.076,0V67.7h57.154a10.538,10.538,0,1,1,0,21.077H88.777V145.93a10.538,10.538,0,1,1-21.076,0Z" transform="translate(365.001 435)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

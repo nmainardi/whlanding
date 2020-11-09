@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'styles/constants.scss';
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; overflow-x: hidden;}
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-color: $wh-background}
+
+@font-face {
+    font-family: circe;
+    src: url(assets/fonts/CRC55.otf);
+  }
+  *{
+      font-family: circe;
+  }
+
+/*body{
+    color:$wh-yellow;
+    @include laptop {
+        color:blue;
+    }
+}
+*/
+mat-sidenav{
+    width: 60%;
+    height: 100%;
+    .mat-drawer-inner-container{
+        background-color: $wh-background
+    }
+}
+
+.mat-drawer-container{
+    background-color: transparent;
+}

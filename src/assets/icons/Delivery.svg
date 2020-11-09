@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Delivery">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Delivery" clip-path="url(#clip-Delivery)">
+    <g id="Raggruppa_10264" data-name="Raggruppa 10264" transform="translate(-59.889 -371.163)">
+      <ellipse id="Ellisse_595" data-name="Ellisse 595" cx="101.187" cy="101.187" rx="101.187" ry="101.187" transform="translate(59.889 405.164)" fill="#ffda00"/>
+      <g id="Raggruppa_10256" data-name="Raggruppa 10256" transform="translate(66.761 442.685)">
+        <g id="Raggruppa_10256-2" data-name="Raggruppa 10256" transform="translate(190.832 22.489)">
+          <path id="Tracciato_4639" data-name="Tracciato 4639" d="M3921.023,1090.957a6.5,6.5,0,0,1-6.165-4.452l-34.082-102.633a6.5,6.5,0,0,1,3.219-7.839l23.464-11.945a6.5,6.5,0,1,1,5.9,11.581l-18.485,9.409,32.321,97.33a6.5,6.5,0,0,1-6.167,8.548Z" transform="translate(-3880.443 -963.38)" fill="#005067" stroke="#005067" stroke-width="1"/>
+        </g>
+        <g id="Raggruppa_10257" data-name="Raggruppa 10257" transform="translate(67.289 57.438)">
+          <path id="Tracciato_4640" data-name="Tracciato 4640" d="M3677.649,1136.688h-67.686a6.5,6.5,0,0,1-5.071-10.56l46.895-58.542a6.483,6.483,0,0,1,3.363-2.207l77.416-21.087a6.5,6.5,0,0,1,7,10.035l-56.625,79.63A6.5,6.5,0,0,1,3677.649,1136.688Zm-54.155-13h50.8l44.149-62.086-57.84,15.755Z" transform="translate(-3603.466 -1044.063)" fill="#005067" stroke="#005067" stroke-width="1"/>
+        </g>
+        <g id="Raggruppa_10258" data-name="Raggruppa 10258" transform="translate(101.243 45.05)">
+          <path id="Tracciato_4641" data-name="Tracciato 4641" d="M3722.8,1120.479a6.5,6.5,0,0,1-6.112-4.295l-33.179-92.017a6.5,6.5,0,1,1,12.224-4.408l33.178,92.017a6.5,6.5,0,0,1-6.11,8.7Z" transform="translate(-3683.123 -1015.465)" fill="#005067" stroke="#005067" stroke-width="1"/>
+        </g>
+        <g id="Raggruppa_10259" data-name="Raggruppa 10259" transform="translate(86.53 45.052)">
+          <path id="Tracciato_4642" data-name="Tracciato 4642" d="M3696.022,1028.463h-34.654a6.5,6.5,0,1,1,0-12.995h34.654a6.5,6.5,0,1,1,0,12.995Z" transform="translate(-3654.871 -1015.468)" fill="#005067" stroke="#005067" stroke-width="1"/>
+        </g>
+        <g id="Raggruppa_10260" data-name="Raggruppa 10260" transform="translate(189.222 91.06)">
+          <path id="Tracciato_4643" data-name="Tracciato 4643" d="M3906.4,1225.587a51.953,51.953,0,1,1,51.954-51.953A52.01,52.01,0,0,1,3906.4,1225.587Zm0-90.91a38.958,38.958,0,1,0,38.958,38.958A39,39,0,0,0,3906.4,1134.676Z" transform="translate(-3854.445 -1121.681)" fill="#005067" stroke="#005067" stroke-width="1"/>
+        </g>
+        <g id="Raggruppa_10261" data-name="Raggruppa 10261" transform="translate(3.613 91.06)">
+          <path id="Tracciato_4644" data-name="Tracciato 4644" d="M3550.4,1225.587a51.953,51.953,0,1,1,32.816-92.231,6.5,6.5,0,0,1-8.213,10.07,38.958,38.958,0,1,0,14.317,31.93,6.5,6.5,0,0,1,12.983.563,51.954,51.954,0,0,1-51.9,49.668Z" transform="translate(-3498.444 -1121.681)" fill="#005067" stroke="#005067" stroke-width="1"/>
+        </g>
+        <g id="Raggruppa_10262" data-name="Raggruppa 10262" transform="translate(28.312 0)">
+          <path id="Tracciato_4645" data-name="Tracciato 4645" d="M3622.156,969.445h-49.6a17.108,17.108,0,0,1-17.089-17.089V928.551a17.108,17.108,0,0,1,17.089-17.088h49.6a17.107,17.107,0,0,1,17.089,17.088v23.806A17.107,17.107,0,0,1,3622.156,969.445Zm-49.6-44.987a4.148,4.148,0,0,0-4.093,4.093v23.806a4.148,4.148,0,0,0,4.093,4.093h49.6a4.148,4.148,0,0,0,4.093-4.093V928.551a4.148,4.148,0,0,0-4.093-4.093Z" transform="translate(-3555.467 -911.463)" fill="#005067" stroke="#005067" stroke-width="1"/>
+        </g>
+        <g id="Raggruppa_10263" data-name="Raggruppa 10263" transform="translate(0 0)">
+          <path id="Tracciato_4646" data-name="Tracciato 4646" d="M3573.715,924.458H3496.6a6.5,6.5,0,1,1,0-12.995h77.111a6.5,6.5,0,1,1,0,12.995Z" transform="translate(-3490.105 -911.463)" fill="#005067" stroke="#005067" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

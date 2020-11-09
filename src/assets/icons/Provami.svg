@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Provami">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Provami" clip-path="url(#clip-Provami)">
+    <g id="Raggruppa_10102" data-name="Raggruppa 10102" transform="translate(0.421 52.368)">
+      <circle id="Ellisse_598" data-name="Ellisse 598" cx="98" cy="98" r="98" transform="translate(-0.421 -0.368)" fill="#2ea836"/>
+      <g id="Raggruppa_3509" data-name="Raggruppa 3509" transform="translate(115.307 9.39)">
+        <g id="Raggruppa_2541" data-name="Raggruppa 2541" transform="translate(0 11.441)">
+          <path id="Tracciato_44" data-name="Tracciato 44" d="M802.633,965.171H724.606c-15.849,0-28.741-11.258-28.741-25.1V815.264c0-13.837,12.892-25.095,28.741-25.095h37.981c3.76,0,6.811,2.662,6.811,5.948s-3.051,5.947-6.811,5.947H724.606c-8.34,0-15.118,5.921-15.118,13.2v124.81c0,7.279,6.778,13.2,15.118,13.2h78.027c8.336,0,15.116-5.924,15.116-13.2V884.191c0-3.282,3.051-5.947,6.81-5.947s6.809,2.665,6.809,5.947v55.883C831.368,953.913,818.478,965.171,802.633,965.171Z" transform="translate(-695.865 -790.169)" fill="#005067"/>
+        </g>
+        <g id="Raggruppa_2542" data-name="Raggruppa 2542" transform="translate(84.828 0)">
+          <path id="Tracciato_45" data-name="Tracciato 45" d="M797.2,886.249H743.8a23.052,23.052,0,0,1-23.024-23.024v-53.4a16.331,16.331,0,0,0,1.118-6.792A22.9,22.9,0,0,1,743.8,786.809h53.4a23.045,23.045,0,0,1,23.019,23.016v53.4A23.049,23.049,0,0,1,797.2,886.249Zm-62.933-77.741a6.464,6.464,0,0,1,.13,1.317v53.4a9.414,9.414,0,0,0,9.4,9.4h53.4a9.413,9.413,0,0,0,9.4-9.4v-53.4a9.41,9.41,0,0,0-9.4-9.4H743.8a9.345,9.345,0,0,0-8.906,6.662A6.807,6.807,0,0,1,734.269,808.508Z" transform="translate(-720.776 -786.809)" fill="#005067"/>
+        </g>
+        <g id="Raggruppa_2543" data-name="Raggruppa 2543" transform="translate(36.075 142.979)">
+          <path id="Tracciato_46" data-name="Tracciato 46" d="M760.942,848.59H713.27a6.81,6.81,0,1,1,0-13.621h47.673a6.81,6.81,0,1,1,0,13.621Z" transform="translate(-706.459 -834.969)" fill="#005067"/>
+        </g>
+        <g id="Raggruppa_2544" data-name="Raggruppa 2544" transform="translate(108.1 28.083)">
+          <path id="Tracciato_47" data-name="Tracciato 47" d="M752.546,834.809a6.793,6.793,0,0,1-4.816-2L729.6,814.687a6.809,6.809,0,0,1,9.629-9.63L752.375,818.2l18.26-19.563a6.81,6.81,0,0,1,9.956,9.294l-23.066,24.715a6.846,6.846,0,0,1-4.863,2.166Z" transform="translate(-727.61 -796.47)" fill="#005067"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

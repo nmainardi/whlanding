@@ -1,0 +1,87 @@
+@import 'src/styles/constants';
+.sidenav{
+    z-index: 101;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+    mat-option{
+        color: $wh-blue;
+    }
+    @include tablet {
+        mat-option{
+            color: $wh-blue;
+            font-size: 25px;
+        }
+    }
+}
+.mat-drawer-container-has-open{
+    pointer-events: unset;
+}
+.header-mobile{
+    display: flex;
+    height: 50px;
+    .title{
+        height: 47px;
+    }
+    @include tablet {
+        height: 80px;
+        .title{
+            height: 80px;
+        }
+        .hamburger-button{
+            height: 80px;
+            width: 80px;
+            .hamburger{
+                height: 50px;
+                width: 50px;
+            }
+        }
+    }
+    @include laptop {
+        display: none;
+    }
+}
+.header-desktop{
+    display: none;
+    @include laptop {
+        display: flex;
+    }
+    justify-content: flex-end;
+    align-items: center;
+    height: 50px;
+    padding-top: 30px;
+    .header-element{
+        color: $wh-blue;
+        width: 12%;
+        font-size: 15px;
+        font-weight: bold;
+        padding: 0 5px;
+        min-width: 115px;
+        height: min-content;
+        text-align: center;
+        user-select: none;
+        span{
+            cursor: pointer;
+        }
+    }
+    .circular-button{
+        border: solid $wh-blue 3px;
+        background-color: transparent;
+        border-radius: 40px;
+        padding: 5px 0;
+        width: 110px;
+        text-align: center;
+        cursor: pointer;
+        color: $wh-blue;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .circular-button:focus{
+        outline:none;
+    }
+    .circular-button:hover{
+        background-color: $wh-blue;
+        color: $wh-background;
+    }
+}

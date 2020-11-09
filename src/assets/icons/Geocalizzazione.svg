@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <filter id="Rettangolo_2" x="-9" y="-6" width="318.417" height="318.46" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Geocalizzazione">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Geocalizzazione" clip-path="url(#clip-Geocalizzazione)">
+    <g id="Raggruppa_9857" data-name="Raggruppa 9857" transform="translate(-0.417 0.48)">
+      <g transform="matrix(1, 0, 0, 1, 0.42, -0.48)" filter="url(#Rettangolo_2)">
+        <rect id="Rettangolo_2-2" data-name="Rettangolo 2" width="300.417" height="300.46" rx="150" transform="translate(0 0)" fill="#2ea836"/>
+      </g>
+      <g id="Raggruppa_9907" data-name="Raggruppa 9907" transform="translate(64.417 64.52)">
+        <g id="Raggruppa_9890" data-name="Raggruppa 9890" transform="translate(0 0)">
+          <g id="Raggruppa_9887" data-name="Raggruppa 9887">
+            <path id="Tracciato_4563" data-name="Tracciato 4563" d="M-1906.476,4571.061a85.565,85.565,0,0,1-85.462-85.467,85.564,85.564,0,0,1,85.462-85.462,85.563,85.563,0,0,1,85.457,85.462A85.564,85.564,0,0,1-1906.476,4571.061Zm0-161.009a75.625,75.625,0,0,0-75.542,75.542,75.62,75.62,0,0,0,75.542,75.533,75.617,75.617,0,0,0,75.537-75.533A75.622,75.622,0,0,0-1906.476,4410.052Z" transform="translate(1991.938 -4400.132)" fill="#fff"/>
+          </g>
+          <g id="Raggruppa_9888" data-name="Raggruppa 9888" transform="translate(7.123 47.407)">
+            <path id="Tracciato_4564" data-name="Tracciato 4564" d="M-1947.334,4568.951a4.951,4.951,0,0,1-4.32-2.516,4.972,4.972,0,0,1,1.876-6.767l35.129-19.868c5.7-3.845,5.525-6.964,5.472-8-.457-8.456-16.584-19.506-24.321-23.528a4.967,4.967,0,0,1-2.26-6.375c3.207-7.394,3.267-13.378.176-18.289-7.718-12.257-33.627-15.855-42.963-16.2a4.97,4.97,0,0,1-4.769-5.148,4.973,4.973,0,0,1,5.136-4.771c1.579.063,38.882,1.638,50.98,20.825,4.238,6.718,4.948,14.546,2.132,23.316,8.039,4.762,25.077,16.4,25.794,29.634.239,4.5-1.3,11.073-10.019,16.893-.1.068-.205.116-.312.193l-35.3,19.96A4.94,4.94,0,0,1-1947.334,4568.951Zm35.291-24.915h0Z" transform="translate(1983.317 -4457.489)" fill="#fff"/>
+          </g>
+          <g id="Raggruppa_9889" data-name="Raggruppa 9889" transform="translate(116.107 88.825)">
+            <path id="Tracciato_4565" data-name="Tracciato 4565" d="M-1834.338,4573.995a4.967,4.967,0,0,1-4.262-2.424c-13.423-22.5-16.35-39.6-8.7-50.859,11.95-17.564,44.585-12.474,45.969-12.247a4.95,4.95,0,0,1,4.1,5.684,4.95,4.95,0,0,1-5.687,4.1c-7.705-1.231-29.218-2.212-36.182,8.061-5.206,7.659-2.086,21.559,9.021,40.186a4.972,4.972,0,0,1-1.717,6.81A5,5,0,0,1-1834.338,4573.995Z" transform="translate(1851.453 -4507.608)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Raggruppa_9891" data-name="Raggruppa 9891" transform="translate(73.627 0)">
+          <path id="Tracciato_4566" data-name="Tracciato 4566" d="M-1835.862,4451.069c-6.353,0-11.482-1.869-15.3-5.607a21.543,21.543,0,0,1-5.689-10.6c-5.266,3.588-13.208,6.7-24.613,6.085-6.515-.367-11.9-3.019-15.577-7.679-8.365-10.6-5.279-28.32-5.144-29.059a4.958,4.958,0,0,1,5.762-4,4.957,4.957,0,0,1,4,5.747c-.7,3.907-1.471,15.319,3.175,21.187,1.917,2.415,4.641,3.69,8.335,3.9,17.758.99,23.761-9.48,24.01-9.924a4.924,4.924,0,0,1,5.93-2.4,4.986,4.986,0,0,1,3.34,5.5c-.391,2.618-.539,10.331,3.429,14.17,2.695,2.622,7.232,3.385,13.486,2.279a4.95,4.95,0,0,1,5.75,4.008,4.958,4.958,0,0,1-4.016,5.752A39.123,39.123,0,0,1-1835.862,4451.069Z" transform="translate(1902.851 -4400.13)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

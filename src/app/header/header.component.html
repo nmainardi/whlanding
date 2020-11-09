@@ -1,0 +1,25 @@
+<div class="header-mobile">
+  <button mat-icon-button (click)="toggle()" class="hamburger-button">
+    <mat-icon svgIcon="Hamburger_menu" class="hamburger"></mat-icon>
+  </button>
+  <div><img class="title" src="assets/img/home/title.svg" /></div>
+</div>
+<div class="header-desktop">
+  <div class="header-element"><span>Home</span></div>
+  <div class="header-element"><span>Why WaitHero?</span></div>
+  <div class="header-element"><span>Price</span></div>
+  <div class="header-element"><span>Blog</span></div>
+  <div class="header-element"><button class="circular-button">Right Away</button></div>
+  <div class="header-element"><button class="circular-button">Sign up</button></div>
+</div>
+<mat-sidenav-container appSupportEmpty class="sidenav">
+  <mat-sidenav closed #sidenav>
+    <mat-option>Home</mat-option>
+    <mat-option>Why WaitHero?</mat-option>
+    <mat-option>Price</mat-option>
+    <mat-option>Blog</mat-option>
+    <mat-option>Right Away</mat-option>
+    <mat-option>Sign up</mat-option>
+  </mat-sidenav>
+  <mat-sidenav-content></mat-sidenav-content>
+</mat-sidenav-container>
